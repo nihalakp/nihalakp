@@ -1,4 +1,4 @@
-# Hi, I'm Nihala 👋
+# Hi, I'm Nihala 
 
 Senior software engineer pivoting to LLM / AI application engineering.
 5 years building data-intensive platforms at HCA Healthcare and Fidelity Investments.
@@ -6,7 +6,7 @@ Now applying that domain knowledge to building AI apps that solve problems I com
 Turns out everyday frustrations = surprisingly good RAG use cases.
 
 ## What I'm building
-- 🍼 Baby Guide AI — pediatric Q&A grounded in AAP guidelines (built by a mom, for moms)
+-  Baby Guide AI — pediatric Q&A grounded in AAP guidelines (built by a mom, for moms)
 
 
 ## Stack
